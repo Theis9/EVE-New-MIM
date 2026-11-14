@@ -1,0 +1,554 @@
+{
+  "version": 1,
+  "publishedUtc": "2026-11-14T15:57:21.810016Z",
+  "source": {
+    "fileName": "任务报酬.xlsx",
+    "sheet": "Sheet1",
+    "range": "A2:D8",
+    "sha256": "a1da092861a7367840c554241f3816b5db64baf3618a8072851d2980e13c8aee"
+  },
+  "tasks": [
+    {
+      "id": "surprise",
+      "name": "惊奇",
+      "rewards": [
+        14118,
+        14119
+      ],
+      "shares": [
+        {
+          "participants": 1,
+          "lp": 14118,
+          "totals": [
+            14118
+          ]
+        },
+        {
+          "participants": 1,
+          "lp": 14119,
+          "totals": [
+            14119
+          ]
+        },
+        {
+          "participants": 2,
+          "lp": 7059,
+          "totals": [
+            14118,
+            14119
+          ]
+        },
+        {
+          "participants": 3,
+          "lp": 4706,
+          "totals": [
+            14118,
+            14119
+          ]
+        },
+        {
+          "participants": 4,
+          "lp": 3529,
+          "totals": [
+            14118,
+            14119
+          ]
+        },
+        {
+          "participants": 5,
+          "lp": 2823,
+          "totals": [
+            14118,
+            14119
+          ]
+        },
+        {
+          "participants": 6,
+          "lp": 2353,
+          "totals": [
+            14118,
+            14119
+          ]
+        },
+        {
+          "participants": 7,
+          "lp": 2016,
+          "totals": [
+            14118
+          ]
+        },
+        {
+          "participants": 7,
+          "lp": 2017,
+          "totals": [
+            14119
+          ]
+        },
+        {
+          "participants": 8,
+          "lp": 1764,
+          "totals": [
+            14118,
+            14119
+          ]
+        },
+        {
+          "participants": 9,
+          "lp": 1568,
+          "totals": [
+            14118,
+            14119
+          ]
+        },
+        {
+          "participants": 10,
+          "lp": 1411,
+          "totals": [
+            14118,
+            14119
+          ]
+        }
+      ],
+      "sourceRange": "A2:D2"
+    },
+    {
+      "id": "burner-team",
+      "name": "燃烧团队",
+      "rewards": [
+        21683,
+        21684
+      ],
+      "shares": [
+        {
+          "participants": 1,
+          "lp": 21683,
+          "totals": [
+            21683
+          ]
+        },
+        {
+          "participants": 1,
+          "lp": 21684,
+          "totals": [
+            21684
+          ]
+        },
+        {
+          "participants": 2,
+          "lp": 10841,
+          "totals": [
+            21683
+          ]
+        },
+        {
+          "participants": 2,
+          "lp": 10842,
+          "totals": [
+            21684
+          ]
+        },
+        {
+          "participants": 3,
+          "lp": 7227,
+          "totals": [
+            21683
+          ]
+        },
+        {
+          "participants": 3,
+          "lp": 7228,
+          "totals": [
+            21684
+          ]
+        },
+        {
+          "participants": 4,
+          "lp": 5420,
+          "totals": [
+            21683
+          ]
+        },
+        {
+          "participants": 4,
+          "lp": 5421,
+          "totals": [
+            21684
+          ]
+        },
+        {
+          "participants": 5,
+          "lp": 4336,
+          "totals": [
+            21683,
+            21684
+          ]
+        },
+        {
+          "participants": 6,
+          "lp": 3613,
+          "totals": [
+            21683
+          ]
+        },
+        {
+          "participants": 6,
+          "lp": 3614,
+          "totals": [
+            21684
+          ]
+        },
+        {
+          "participants": 7,
+          "lp": 3097,
+          "totals": [
+            21683,
+            21684
+          ]
+        },
+        {
+          "participants": 8,
+          "lp": 2710,
+          "totals": [
+            21683,
+            21684
+          ]
+        },
+        {
+          "participants": 9,
+          "lp": 2409,
+          "totals": [
+            21683,
+            21684
+          ]
+        },
+        {
+          "participants": 10,
+          "lp": 2168,
+          "totals": [
+            21683,
+            21684
+          ]
+        }
+      ],
+      "sourceRange": "A3:D3"
+    },
+    {
+      "id": "rescue-mining",
+      "name": "抢救矿冶设施目标",
+      "rewards": [],
+      "shares": [],
+      "sourceRange": "A4:D4"
+    },
+    {
+      "id": "intercept-sabotage",
+      "name": "截击破坏者目标",
+      "rewards": [],
+      "shares": [],
+      "sourceRange": "A5:D5"
+    },
+    {
+      "id": "unauthorized-army",
+      "name": "未授权的军队",
+      "rewards": [
+        14455,
+        14456
+      ],
+      "shares": [
+        {
+          "participants": 1,
+          "lp": 14455,
+          "totals": [
+            14455
+          ]
+        },
+        {
+          "participants": 1,
+          "lp": 14456,
+          "totals": [
+            14456
+          ]
+        },
+        {
+          "participants": 2,
+          "lp": 7227,
+          "totals": [
+            14455
+          ]
+        },
+        {
+          "participants": 2,
+          "lp": 7228,
+          "totals": [
+            14456
+          ]
+        },
+        {
+          "participants": 3,
+          "lp": 4818,
+          "totals": [
+            14455,
+            14456
+          ]
+        },
+        {
+          "participants": 4,
+          "lp": 3613,
+          "totals": [
+            14455
+          ]
+        },
+        {
+          "participants": 4,
+          "lp": 3614,
+          "totals": [
+            14456
+          ]
+        },
+        {
+          "participants": 5,
+          "lp": 2891,
+          "totals": [
+            14455,
+            14456
+          ]
+        },
+        {
+          "participants": 6,
+          "lp": 2409,
+          "totals": [
+            14455,
+            14456
+          ]
+        },
+        {
+          "participants": 7,
+          "lp": 2065,
+          "totals": [
+            14455,
+            14456
+          ]
+        },
+        {
+          "participants": 8,
+          "lp": 1806,
+          "totals": [
+            14455
+          ]
+        },
+        {
+          "participants": 8,
+          "lp": 1807,
+          "totals": [
+            14456
+          ]
+        },
+        {
+          "participants": 9,
+          "lp": 1606,
+          "totals": [
+            14455,
+            14456
+          ]
+        },
+        {
+          "participants": 10,
+          "lp": 1445,
+          "totals": [
+            14455,
+            14456
+          ]
+        }
+      ],
+      "sourceRange": "A6:D6"
+    },
+    {
+      "id": "scar-target",
+      "name": "疤痕目标",
+      "rewards": [
+        13491,
+        13492
+      ],
+      "shares": [
+        {
+          "participants": 1,
+          "lp": 13491,
+          "totals": [
+            13491
+          ]
+        },
+        {
+          "participants": 1,
+          "lp": 13492,
+          "totals": [
+            13492
+          ]
+        },
+        {
+          "participants": 2,
+          "lp": 6745,
+          "totals": [
+            13491
+          ]
+        },
+        {
+          "participants": 2,
+          "lp": 6746,
+          "totals": [
+            13492
+          ]
+        },
+        {
+          "participants": 3,
+          "lp": 4497,
+          "totals": [
+            13491,
+            13492
+          ]
+        },
+        {
+          "participants": 4,
+          "lp": 3372,
+          "totals": [
+            13491
+          ]
+        },
+        {
+          "participants": 4,
+          "lp": 3373,
+          "totals": [
+            13492
+          ]
+        },
+        {
+          "participants": 5,
+          "lp": 2698,
+          "totals": [
+            13491,
+            13492
+          ]
+        },
+        {
+          "participants": 6,
+          "lp": 2248,
+          "totals": [
+            13491,
+            13492
+          ]
+        },
+        {
+          "participants": 7,
+          "lp": 1927,
+          "totals": [
+            13491,
+            13492
+          ]
+        },
+        {
+          "participants": 8,
+          "lp": 1686,
+          "totals": [
+            13491,
+            13492
+          ]
+        },
+        {
+          "participants": 9,
+          "lp": 1499,
+          "totals": [
+            13491,
+            13492
+          ]
+        },
+        {
+          "participants": 10,
+          "lp": 1349,
+          "totals": [
+            13491,
+            13492
+          ]
+        }
+      ],
+      "sourceRange": "A7:D7"
+    },
+    {
+      "id": "rogue-drone-harassment-target",
+      "name": "自由无人机的骚扰目标",
+      "rewards": [
+        14298
+      ],
+      "shares": [
+        {
+          "participants": 1,
+          "lp": 14298,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 2,
+          "lp": 7149,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 3,
+          "lp": 4766,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 4,
+          "lp": 3574,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 5,
+          "lp": 2859,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 6,
+          "lp": 2383,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 7,
+          "lp": 2042,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 8,
+          "lp": 1787,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 9,
+          "lp": 1588,
+          "totals": [
+            14298
+          ]
+        },
+        {
+          "participants": 10,
+          "lp": 1429,
+          "totals": [
+            14298
+          ]
+        }
+      ],
+      "sourceRange": "A8:D8"
+    }
+  ]
+}
